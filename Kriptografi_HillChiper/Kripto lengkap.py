@@ -1,4 +1,4 @@
-# Hill Cipher Kripto lengkap
+# Hill Cipher Kripto
 mod = 95
 
 # INPUT MATRIKS KUNCI
